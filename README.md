@@ -15,8 +15,8 @@ Professor Chris Chapman
 * PHP v5.5.30
 * MySQL v5.5.46
 * Laravel Framework v5.1.25 LTS (where needed)
-... Composer v1.0 needed for Laravel
-... Documentation found at: [https://laravel.com/docs/5.1](https://laravel.com/docs/5.1)
+  * Composer v1.0 needed for Laravel
+  * Documentation found at: [https://laravel.com/docs/5.1](https://laravel.com/docs/5.1)
 
 ## Version Numbering
 * When releasing new versions the pattern to follow is Release Version (dot) Production Release ++ (dot) Staged Release ++. (v##.##.##)
