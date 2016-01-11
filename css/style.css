@@ -43,8 +43,12 @@ nav {
     padding: 5%;
     width: 85%;
     background: white;
-    margin: 0 auto;
+    margin: 0 auto 3% auto;
     color: black;
+}
+
+ul {
+    margin-bottom: 0;
 }
 
 .navItem:nth-child(1),
